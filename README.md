@@ -46,12 +46,19 @@ Using the Application
 Future Improvements
 -------------------
 1.Optimize colors and fonts for improved accessibility
+
 2.Improve design of reports screen
+
 3.Add ability to download/save reports
+
 4.Add section to README outlining how to test localization settings
+
 5.Add more detail to README under "Using the Application" section:
+
           Explain screenshots
+          
           Explain required fields and input validation
+          
 
 Project Status
 --------------
